@@ -1,0 +1,19 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - generic [ref=e6]: 下钻分析
+    - generic [ref=e7]:
+      - generic [ref=e8]: 下钻维度
+      - combobox [ref=e9] [cursor=pointer]:
+        - option "大区" [selected]
+        - option "省份"
+        - option "城市"
+      - combobox [ref=e10] [cursor=pointer]:
+        - option "请选择" [selected]
+        - option "华东大区"
+        - option "华南大区"
+        - option "华西大区"
+        - option "华北大区"
+        - option "云南大区"
+  - generic [ref=e11]:
+    - text: GMV气泡图
+    - generic [ref=e12]: ⓘ
