@@ -1,0 +1,8 @@
+{
+  "useSharkI18n": false,
+  "sharkKeyPrefix": "key",
+  "sharkAppId": "100000000",
+  "outputPath": "src/pages/d2c",
+  "mcpServer": "trn-web-skills-mcp-server",
+  "componentsPath": ["src/components"]
+}
